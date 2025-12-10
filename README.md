@@ -5,8 +5,8 @@ I'm pouya 🤟<br>Front-end Developer 🕶️<br>I'm Ready to work for Your idea
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/paydar6920) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pounjya) 
 
-# 💻 Tech Stack:
-## My Skill Set  
+
+Skills 
 <table><tr><td valign="top" width="33%">
 
 
@@ -31,17 +31,6 @@ I'm pouya 🤟<br>Front-end Developer 🕶️<br>I'm Ready to work for Your idea
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## 🏆 GitHub Trophies
